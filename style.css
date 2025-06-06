@@ -1,0 +1,38 @@
+
+h1{
+    font-size: 5rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.container{
+    color: lightseagreen;
+    text-align: center;
+    margin: auto;
+    font-family: "indie flower", cursive;
+    background-color: #dddcdc;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+
+.img_1, .img_2 {
+    width: 65%;
+}
+
+footer{
+    position: relative;
+    bottom: 10px;
+    height: 6rem;
+    width: 100%;
+    background-color: #dddcdc;
+    color: rgb(34, 166, 153);
+    text-align: center;
+    font-family: "indie flower", cursive;
+}
